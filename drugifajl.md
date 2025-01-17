@@ -1,1 +1,2 @@
-ovo je drugi file
+ovaj sam redak izmjeniuo
+a ova sam redak dodao
